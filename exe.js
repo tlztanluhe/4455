@@ -19295,13 +19295,7 @@ String.prototype.replaceAll  = function(s1,s2){
                         for(var _98k in m){
                             newObj[_98k] = m[_98k];
                         }
-
-
-                        // var replaceArray = [,"/font=","/font","font",";=#CCCCCC",";#E5E5E5","=#E5E5E5","#E5E5E5","=&amp","&amp=","&amp","=#39","#39=","#39","&lt;","&lt",";&gt","&gt","gt","color=","color","=&quot","&quot=","&quot",";"];
-                        // for(var ajaj = 0;ajaj<replaceArray.length;ajaj++){
-                        //   srt = srt.replaceAll(replaceArray[ajaj],"");
-                        // }
-                        newObj.responseText = srt;//.replaceAll("&lt","").replaceAll("&lt","");
+                        newObj.responseText = srt;
                         m = newObj;
                     }
                 }
