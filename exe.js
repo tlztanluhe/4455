@@ -19301,7 +19301,7 @@ String.prototype.replaceAll  = function(s1,s2){
                         // for(var ajaj = 0;ajaj<replaceArray.length;ajaj++){
                         //   srt = srt.replaceAll(replaceArray[ajaj],"");
                         // }
-                        newObj.responseText = srt.replaceAll("&lt","").replaceAll("&lt","");
+                        newObj.responseText = srt;//.replaceAll("&lt","").replaceAll("&lt","");
                         m = newObj;
                     }
                 }
