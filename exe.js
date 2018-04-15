@@ -19289,7 +19289,7 @@ String.prototype.replaceAll  = function(s1,s2){
 
                         var srt = "";
                         for(var _jjj = 0;_jjj<englishSrtArray.length;_jjj++){
-                            srt += englishSrtArray[_jjj] + chineseSrtArray[_jjj].replace(/.+>/,"") + "</text>";
+                            srt += "aaa</text>"//englishSrtArray[_jjj] + chineseSrtArray[_jjj].replace(/.+>/,"") + "</text>";
                         }
                         var newObj = {};
                         for(var _98k in m){
