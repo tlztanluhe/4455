@@ -1,30 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T07:26:02.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ZqtMz7DOz87XwII2ywuf" version="13.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T07:27:18.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="rX0g9ZS98cBKhhJf4bPD" version="13.1.5" type="github">
   <diagram id="vx2RxJ6e2pieVY0ymEu-" name="第 1 页">
     <mxGraphModel dx="1612" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MqESrtcRTu8HMc-M96-s-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MqESrtcRTu8HMc-M96-s-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="300" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MqESrtcRTu8HMc-M96-s-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MqESrtcRTu8HMc-M96-s-4" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MqESrtcRTu8HMc-M96-s-5" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="200" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MqESrtcRTu8HMc-M96-s-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="220" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MqESrtcRTu8HMc-M96-s-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="190" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
